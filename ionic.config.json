@@ -1,0 +1,7 @@
+{
+  "name": "jb-portfolio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
